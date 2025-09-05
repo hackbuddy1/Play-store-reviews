@@ -82,9 +82,12 @@ jupyter notebook
 ```
 
 📊 Example Visualizations
-Sentiment Distribution
-Positive Word Cloud
-Negative Word Cloud
+### Sentiment Distribution
+![Sentiment Distribution](images/sentiment_distribution.png)  
+### Positive Word Cloud
+![Positive Word Cloud](images/positive_wordcloud.png)
+### Negative Word Cloud
+![Negative Word Cloud](images/negative_wordcloud.png)  
 
 🔍 Insights & Recommendations
 1. Overall Sentiment → ~70% reviews are Positive → strong product-market fit.
